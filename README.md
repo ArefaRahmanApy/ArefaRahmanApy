@@ -52,7 +52,6 @@ A toolkit still under construction, like a ship being built on calm water 🚤
 Where the wires meet the world:
 
 - GitHub: **[@ArefaRahmanApy](https://github.com/ArefaRahmanApy)**  
-- *(Add email or LinkedIn if you want)*  
 
 ---
 
